@@ -3,3 +3,4 @@
 ## nova desgraça
 
 * comando git push
+* comando git pull
